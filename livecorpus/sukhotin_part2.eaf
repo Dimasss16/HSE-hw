@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-19T21:39:08+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/dmitrijsuhotin/Desktop/Диалектная речь 2.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../Диалектная речь 2.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2665212b-5ae5-45ba-8ad7-920aae962664</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">10</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4994"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="42042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="42580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="45940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="45940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="173538"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="Dimasss16" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@a1934f" TIER_ID="text@a1934f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>это ж какая работа, на какой работе будешь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>там н не этого не спрашивали выработаешь, не выработаешь / сколько зароботаешь #характерное_оканье#, за это получаешь // в войну-то ходили с котомочком вот тут #показывает_направление_правой_рукой# амбар #нрзб# то я ниже моей полосы за Лукьяновой туда // дак за мукой придем, три килограмма м дадут на пятидневку дадут три килограмма муки то овсяной если дадут, да высеешь, да там чё останется / вот так // придем в очередь та у амбара тут хаха #посмеивается# с котомочком придёшь #покачивает_головой#  // все прошла прожила всякие годы трудные //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>пошли работать да ж с первого класса работать да / мы эти учились мы нас на это на переменах уже война дак / я в сорок первом пошла туда / корзину в руки и на переменах уже в полё чистить там ячмень, ёвёс в общем, мы зерновые чистили // лён // вот а уже летом вообше #произносит_ш_вместо_щ# работа по бригаде // сначала навоз не могла ешё лошадь запрягать дак вот я ей / сёстры ведь у меня есть же её и у нас пока ешё не уехали тоже дак не едина лошадь приведёт, запрягёт / я уже вожу навоз, замениваю большое человека, как лошадь, только воняю / навоз накидывают уже бабушки / тут с деревни ну а там уже человек сгребает опять навоз, посылают человека чё мы комарье #нрзб# чё делаем дак / а уже лашадь-то гоняли как замениваем большого человека / сначала начала работать сидела у забора вот тут как раз сейчас где кольцо тут / у нас же деревня вся была огорожена огородом / ну эти поля всё огорожено были и вот тут были заборы под котелем, вот я тут сидела тут тоже человека уже заменивала ло скот ходил по деревне вот мелкие овцы, козы, поросята эти все по деревне они ходили / ну и вот и и возят навоз / где тут каждого #нрзб# будте же калитку, заборы, забор у нас вот вот / большущий / и сидишь человек вот я тут и сидела дак вот умерла год назад ещё женщина была бригадиром то ну у нас / дак всё и #нрзб# поминала / до самой смерти, про меня говорит, #нрзб# да просит работу, надо, г работу в общем бы, а куда говорит #нрзб# в первый класс ходила, какая работа // работу вот и вот вот / дали мне работу, сидела всё пока #характерное_оканье# возят де навоз какое поле я тут сижу уже //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Dimasss16" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@b1980m" TIER_ID="text@b1980m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>а если не выработать? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>а какую работу начали первую делать, когда пошли работать? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Dimasss16" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@a1934f"
+        PARTICIPANT="@a1934f" TIER_ID="transl@a1934f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>the type of the work depends on the actual occupation you choose</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>they didn't ask if you can or cannot do the job. the amount of money you got depended on how much work you actually managed to do. during the War we always brought a small knapsack with us and went to the barn wich was downhill from Lukyanovo. we received about three kiloes of flour per five days. if it was cornflour, then you needed to saw it before cooking but after sowing there's almost nothing left from it... so it is // I remember how I would walk up to that barn get in the line / haha #chuckles# with that little knapsack... // I have broken through all this extremely hard times //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>we got down to work right at the beginning of the first school year, yeah / we were sitting at the lessons while the War was running outside / so I went working in nineteen forty first / picked up a basket and went to the field to peel the barley, oats / basically any type of grain // flax / so, in summer actually I worked in a brigade // at the beginning had difficulties with transferring manure and harnessing horses so I actually // I knew my sisters haven't left but I couldn't rely on their help / so I learned how do do this / a while later I was able to substitute a horse kind of resembling it but also stinking / even elderly women were carrying dung / these people were right from this village but there was also a man shovelling dung over and over again they send a man, we ain't moscitoes, right /#indistinct_speech# what we're doing / and the horse was already sent as a human substitute // I began to work sitting right here, near the fence it is the ring here now / the whole village was enclosed by a garden / all thes fields were inside the fence and I was sitting nearby as a substitute for men ho cattle walked through the village here we had small sheep, goats, pigs all of them walking by / well, they were transerring the dung / everyone here was #indistinct# will the gate, the fence of ours, yeah / tremendous / and I was sitting here and a woman who was our brigadier died last year / so that's it #indistinct# remembered of her / till her last day she were talking about me #indistinct# asking for a job saying she need to get it actually doesn't know where #indistinct# has just begun going to school can't even think about work yet // work, right / they gave me a job while I was still sitting in front of the school desk, haulling the dung what field are we talking about I'm just sitting here //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Dimasss16" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@b1980m"
+        PARTICIPANT="@b1980m" TIER_ID="transl@b1980m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>and what happens is one fails to do his job?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>and what was the first work you did? when did you start working?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_2168b36f-5f6f-485a-b8ed-0874b2b37179">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_da4465e2-eff1-4fd9-9ace-736fcfedc85b">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eb8f0bca-a581-41ee-8c36-dc6196b5f324">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6676da0a-d726-413b-a40c-0e44ba7c0ccb">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3a5ad35e-281f-4540-9b96-be6156deed85">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_aeb416cc-c960-41de-8564-8e4af7e07232">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4b04c722-2540-49e6-bcac-ad7d56774d1f">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a4a0d6f8-4715-4e17-91de-3673c8955933">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_59ba49d5-c8a7-4b83-bc2e-d072216e3e18">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1a2d3e77-f434-4208-a2e9-b8c31f9d3165">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f5fe4b56-19ad-4452-8d66-6658f8cc0d3b">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8790cdef-8dd5-434d-84d1-eca8be5a2f97">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_626dad2f-b2d1-4c85-bead-86ca4e1867e0">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_f0068260-5cab-461c-a635-8b939564a244">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_119a6d2f-12d0-4384-a577-4c9797238df5">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cb0c6af3-cd15-443d-8827-d6cba28fecea">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_59f7128d-2e61-4d88-a2c5-fb4a8f258ea9">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
